@@ -6,14 +6,13 @@
 
 ---
 
-## 🧠 About Me
+I'm Sakshi, an MSc student in Big Data Analytics passionate about building real, practical solutions—not just learning theory. My work spans across data analytics, machine learning pipelines, data mining, and business-focused problem solving.
 
-I'm **Sakshi**, a Big Data Analytics graduate student who builds real, working projects — not just theory. I work across the full stack of data: from **Flask web apps with MongoDB** to **machine learning pipelines** and **data mining practicals**.
+I enjoy turning raw data into meaningful insights through hands-on projects, from preprocessing and visualization to model building and implementation. With a background in web technologies, business management, and IT project thinking, I bring both technical and strategic perspectives to my work.
 
-My GitHub is a living record of my MSc journey — every repo is practical, runnable, and built to actually solve something.
+My GitHub reflects my journey of learning by doing—every repository is practical, runnable, and built with purpose.
 
-> Currently learning by doing — one practical at a time. 🚀
-
+Growing through projects, solving real problems, and improving one step at a time. 🚀
 ---
 
 ## 🔧 Tech Stack
@@ -70,15 +69,6 @@ A structured collection of MSc practicals implemented in Python, each in its own
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fleur12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleur12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fleur12&theme=tokyonight&hide_border=true)
@@ -87,13 +77,7 @@ A structured collection of MSc practicals implemented in Python, each in its own
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=fleur12&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
 
 ---
 
