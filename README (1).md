@@ -51,8 +51,8 @@ Growing through projects, solving real problems, and improving one step at a tim
 
 A complete web application that connects to **MongoDB Atlas**, lets users add, view, edit and delete data through interactive HTML forms — styled with custom CSS. Demonstrates real full-stack thinking: backend routes, database management, and a responsive frontend.
 
-**Stack:** `Python` `Flask` `MongoDB Atlas` `HTML` `CSS`
-**Key Concepts:** `CRUD Operations` `REST Routes` `NoSQL` `Jinja2 Templates`
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-Learn` `SQL` `MySQL` `Power BI` `Tableau` `Git` `GitHub`
+**Key Concepts:** `Data Mining` `Machine Learning` `Data Preprocessing` `Feature Engineering` `PCA` `Association Rule Mining` `Classification` `Data Visualization`
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fleur12/basic-mongo-flask)
 
