@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 44" width="800" height="44">
+  <!-- Vine line draws itself, holds, then fades and repeats -->
+  <path d="M20,22 C100,6 160,38 250,22 S400,6 480,22 S640,38 780,22"
+        fill="none" stroke="#399d65" stroke-width="3" stroke-linecap="round"
+        stroke-dasharray="820" stroke-dashoffset="820">
+    <animate attributeName="stroke-dashoffset" values="820;0;0;0" keyTimes="0;0.4;0.9;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.4;0.9;1" dur="9s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Leaves swaying gently -->
+  <g fill="#72bf8c" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3;0.5;0.9;1" dur="9s" repeatCount="indefinite"/>
+    <path d="M130,14 q9,-14 18,0 q-9,9 -18,0z">
+      <animateTransform attributeName="transform" type="rotate" values="-8 139 18;8 139 18;-8 139 18" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M250,24 q9,-14 18,0 q-9,9 -18,0z">
+      <animateTransform attributeName="transform" type="rotate" values="8 259 28;-8 259 28;8 259 28" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M540,28 q9,-14 18,0 q-9,9 -18,0z">
+      <animateTransform attributeName="transform" type="rotate" values="-8 549 32;8 549 32;-8 549 32" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M660,30 q9,-14 18,0 q-9,9 -18,0z">
+      <animateTransform attributeName="transform" type="rotate" values="8 669 34;-8 669 34;8 669 34" dur="5.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Centre gold blossom pulses -->
+  <circle cx="400" cy="14" r="5" fill="#e0b400">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="4;6;4" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="14" r="2" fill="#fff3a0"/>
+</svg>
