@@ -1,0 +1,11 @@
+{
+  "CRM-Data-Health-Assessment-using-Apache-Spark-Machine-Learning": {
+    "about": "CRM data quality, anomaly detection (Isolation Forest) and K-Means customer segmentation on 7,043 Telco records with PySpark"
+  },
+  "data-mining": {
+    "about": "7 MSc practicals covering aggregation, PCA, feature selection, class imbalance and Apriori association rules"
+  },
+  "basic-mongo-flask": {
+    "about": "Full-stack Flask + MongoDB Atlas web app with live CRUD through HTML forms"
+  }
+}
