@@ -1,4 +1,7 @@
 {
+  "bioinformatics-journal": {
+    "about": "Shire-themed interactive journal of 12 bioinformatics practicals with a live sequence aligner, BLAST tables, structure, pathway and phylogeny results"
+  },
   "CRM-Data-Health-Assessment-using-Apache-Spark-Machine-Learning": {
     "about": "CRM data quality, anomaly detection (Isolation Forest) and K-Means customer segmentation on 7,043 Telco records with PySpark"
   },
