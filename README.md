@@ -20,7 +20,7 @@ I'm Sakshi, an MSc student in Big Data Analytics who likes building real, practi
 
 | | |
 |---|---|
-| 🗡️ **Current Project** | <!--CURRENT_START-->[Bioinformatics Practical Journal](https://github.com/fleur12/bioinformatics-journal)<!--CURRENT_END--> |
+| 🗡️ **Current Project** | <!--CURRENT_START-->[bioinformatics journal](https://github.com/fleur12/bioinformatics-journal)<!--CURRENT_END--> |
 | 📜 **Currently Learning** | Clustering (K-Means, DBSCAN), Flask REST APIs and data visualization |
 | 💬 **Ask Me About** | Data analytics, data mining, machine learning, Python, Spark and Flask |
 | 📖 **Next Chapter** | Preparing for Data Analyst / Data Scientist roles |
